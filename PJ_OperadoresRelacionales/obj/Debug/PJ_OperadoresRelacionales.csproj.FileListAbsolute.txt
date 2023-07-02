@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\bin\Debug\PJ_OperadoresRelacionales.exe.config
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\bin\Debug\PJ_OperadoresRelacionales.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\bin\Debug\PJ_OperadoresRelacionales.pdb
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\obj\Debug\PJ_OperadoresRelacionales.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\obj\Debug\PJ_OperadoresRelacionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\obj\Debug\PJ_OperadoresRelacionales.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\obj\Debug\PJ_OperadoresRelacionales.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_OperadoresRelacionales\obj\Debug\PJ_OperadoresRelacionales.pdb

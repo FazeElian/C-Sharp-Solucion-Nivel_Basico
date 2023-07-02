@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\bin\Debug\PJ_EstructuraSelectiva.exe.config
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\bin\Debug\PJ_EstructuraSelectiva.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\bin\Debug\PJ_EstructuraSelectiva.pdb
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\obj\Debug\PJ_EstructuraSelectiva.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\obj\Debug\PJ_EstructuraSelectiva.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\obj\Debug\PJ_EstructuraSelectiva.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\obj\Debug\PJ_EstructuraSelectiva.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraSelectiva\obj\Debug\PJ_EstructuraSelectiva.pdb

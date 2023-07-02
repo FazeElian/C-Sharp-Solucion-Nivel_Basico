@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\bin\Debug\PJ_EstructuraDoWhile.exe.config
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\bin\Debug\PJ_EstructuraDoWhile.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\bin\Debug\PJ_EstructuraDoWhile.pdb
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\obj\Debug\PJ_EstructuraDoWhile.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\obj\Debug\PJ_EstructuraDoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\obj\Debug\PJ_EstructuraDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\obj\Debug\PJ_EstructuraDoWhile.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_EstructuraDoWhile\obj\Debug\PJ_EstructuraDoWhile.pdb

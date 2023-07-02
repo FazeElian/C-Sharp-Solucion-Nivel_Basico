@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\bin\Debug\PJ_Vectores.exe.config
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\bin\Debug\PJ_Vectores.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\bin\Debug\PJ_Vectores.pdb
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\obj\Debug\PJ_Vectores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\obj\Debug\PJ_Vectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\obj\Debug\PJ_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\obj\Debug\PJ_Vectores.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Vectores\obj\Debug\PJ_Vectores.pdb

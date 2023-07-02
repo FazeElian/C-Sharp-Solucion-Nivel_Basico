@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\bin\Debug\PJ_Matrices.exe.config
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\bin\Debug\PJ_Matrices.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\bin\Debug\PJ_Matrices.pdb
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\obj\Debug\PJ_Matrices.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\obj\Debug\PJ_Matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\obj\Debug\PJ_Matrices.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\obj\Debug\PJ_Matrices.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_Matrices\obj\Debug\PJ_Matrices.pdb

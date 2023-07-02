@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.exe.config
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.pdb
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.exe
+C:\Users\USUARIO\Desktop\PROGRAMACIÓN WEB\c#\Cursos\Udemy - Nivel Básico C#\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.pdb
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.exe.config
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\bin\Debug\PJ_InstruccionFor.pdb
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.exe
+C:\Users\USUARIO\Desktop\Solución_Nivel_Básico_CSharp\PJ_InstruccionFor\obj\Debug\PJ_InstruccionFor.pdb
